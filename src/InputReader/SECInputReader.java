@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 
 /**
- * Created by xli1 on 8/12/15.
+ * Created by Xian Li on 8/12/15.
  */
 public class SECInputReader extends InputReader {
   public SECInputReader(String inputFilePath) {
@@ -37,13 +37,18 @@ public class SECInputReader extends InputReader {
           if (values.length != 6) {
             LOGGER.fine("Invalid input line: " + line);
           } else {
-            SECSeed s = new SECSeed(values[5]);
-            s.setCik(values[0]);
-            s.setLiCompanyID(values[1]);
-            s.setCompanyName(values[2]);
-            s.setFilingYear(values[3]);
-            s.setFilingQuarter(values[4]);
-            urlSeeds.add(s);
+            if (values[5].isEmpty() || values[5].indexOf('/') == -1) {
+              LOGGER.fine("Invalid seed url: " + values[5]);
+            } else {
+              String url = values[5].substring(0, values[5].lastIndexOf('/'));
+              SECSeed s = new SECSeed(url);
+              s.setCik(values[0]);
+              s.setLiCompanyID(values[1]);
+              s.setCompanyName(values[2]);
+              s.setFilingYear(values[3]);
+              s.setFilingQuarter(values[4]);
+              urlSeeds.add(s);
+            }
           }
         }
         reader.close();

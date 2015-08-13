@@ -12,7 +12,5 @@ public class Seed {
 
   public Seed(String url) {
     seedURL = url;
-
   }
-
 }

@@ -1,6 +1,8 @@
 import InputReader.InputReader;
 import InputReader.SECInputReader;
 import InputReader.Seed;
+import Crawler.Crawler;
+import Crawler.SECCrawler;
 import java.util.ArrayList;
 
 
@@ -12,9 +14,13 @@ public class Main {
     }
     InputReader reader = new SECInputReader(args[0]);
     ArrayList<Seed> seedsList = reader.generateSeeds();
+
     for (Seed s : seedsList) {
       System.out.println(s.getSeedURL());
     }
+    Crawler crawler = new SECCrawler(seedsList, args[1]);
+    String[] dummy = {"html > body > table > tbody > tr > td > a[href]:matches((.+)ex21(.+))\thref"};
+    crawler.getPagesWithDepth(seedsList, dummy);
   }
 
   public static void printUsage() {

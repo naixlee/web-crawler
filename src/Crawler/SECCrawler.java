@@ -65,7 +65,7 @@ public class SECCrawler extends Crawler {
           folder.mkdir();
         }
         BufferedWriter writer = new BufferedWriter(new FileWriter(
-            folder.getPath() + '/' + s.getFilingYear() + "-" + s.getFilingQuarter()));
+            folder.getPath() + '/' + s.getFilingYear() + "-" + s.getFilingQuarter() + ".html"));
         Document pageRoot = Jsoup.connect(url).get();
         if (pageRoot != null) {
           writer.write(pageRoot.html());

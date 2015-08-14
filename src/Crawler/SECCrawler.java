@@ -81,13 +81,8 @@ public class SECCrawler extends Crawler {
   }
 
   public void getPagesWithDepth(ArrayList<Seed> seeds, String[] rules) {
-    try {
-      for (Seed s : seeds) {
-        getPageWithDepth(s, rules);
-        TimeUnit.SECONDS.sleep(1);
-      }
-    } catch (Exception exception) {
-      exception.printStackTrace();
+    for (Seed s : seeds) {
+      getPageWithDepth(s, rules);
     }
   }
 }

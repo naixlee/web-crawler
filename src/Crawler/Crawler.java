@@ -7,6 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import java.util.concurrent.TimeUnit;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -103,10 +104,13 @@ public abstract class Crawler {
     Document root = null;
     while (retry < MAX_RETRY) {
       try {
+        TimeUnit.SECONDS.sleep(1);
         root = Jsoup.connect(targetURL).timeout(3000).get();
         break;
       } catch (IOException exception) {
         LOGGER.info("Retry fetching: " + targetURL);
+      } catch (InterruptedException iexception) {
+        LOGGER.info("Time interval before retrying is interrupted");
       }
       retry++;
     }

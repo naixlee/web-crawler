@@ -35,10 +35,10 @@ public class SECInputReader extends InputReader {
         while ((line = reader.readLine()) != null) {
           String[] values = line.trim().split("\t");
           if (values.length != 6) {
-            LOGGER.fine("Invalid input line: " + line);
+            LOGGER.info("Invalid input line: " + line);
           } else {
             if (values[5].isEmpty() || values[5].indexOf('/') == -1) {
-              LOGGER.fine("Invalid seed url: " + values[5]);
+              LOGGER.info("Invalid seed url: " + values[5]);
             } else {
               String url = values[5].substring(0, values[5].lastIndexOf('/'));
               SECSeed s = new SECSeed(url);

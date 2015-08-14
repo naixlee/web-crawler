@@ -1,22 +1,18 @@
 package Crawler;
 
 import InputReader.Seed;
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStream;
-import java.lang.reflect.Array;
-import java.net.URL;
 import java.util.ArrayList;
 
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-
 
 /**
  *
@@ -24,9 +20,13 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
  */
 
 public abstract class Crawler {
-  ArrayList<Seed> initialSeeds;
-  String outputFolder;
-  static final Logger LOGGER = Logger.getLogger(Crawler.class.getName());
+
+  public static final Logger LOGGER = Logger.getLogger(Crawler.class.getName());
+  public static FileHandler ERROR_CASE_HANDLER = null;
+  public static int MAX_RETRY = 3;
+
+  protected ArrayList<Seed> initialSeeds;
+  protected String outputFolder;
 
   public Crawler(ArrayList<Seed> seeds, String output) {
     initialSeeds = seeds;
@@ -49,6 +49,14 @@ public abstract class Crawler {
     this.outputFolder = outputFolder;
   }
 
+  public static int getMaxRetry() {
+    return MAX_RETRY;
+  }
+
+  public static void setMaxRetry(int maxRetry) {
+    MAX_RETRY = maxRetry;
+  }
+
   public void getDirectPage(Seed seed, String fileName) {
     if (seed == null || seed.getSeedURL() == null || seed.getSeedURL().isEmpty()) {
       LOGGER.info("Missing valid URL information");
@@ -60,11 +68,12 @@ public abstract class Crawler {
       outputDirectory.mkdir();
     }
     try {
-      BufferedWriter writer = new BufferedWriter(new FileWriter(outputFolder + '/' + fileName));
-      Document root = Jsoup.connect(targetURL).get();
-      System.out.println(root.toString());
-      writer.write(root.html());
-      writer.close();
+      Document root = fetchPage(targetURL);
+      if (root != null) {
+        BufferedWriter writer = new BufferedWriter(new FileWriter(outputFolder + '/' + fileName));
+        writer.write(root.html());
+        writer.close();
+      }
     } catch (IOException exception) {
       LOGGER.info(exception.getMessage());
     }
@@ -75,5 +84,35 @@ public abstract class Crawler {
   }
 
   public abstract void getPageWithDepth(Seed seed, String[] xpathRules);
+
+  /**
+   * Crawl a list of urls in single thread manner.
+   * @param seeds
+   * @param xpathRules
+   */
   public abstract void getPagesWithDepth (ArrayList<Seed> seeds, String[] xpathRules);
+
+  /**
+   * Use JSoup to fetch the web page. Allow MAX_RETRY times of retries. Log the url if failed after max number
+   * of retries.
+   * @param targetURL
+   * @return
+   */
+  protected Document fetchPage(String targetURL) {
+    int retry = 0;
+    Document root = null;
+    while (retry < MAX_RETRY) {
+      try {
+        root = Jsoup.connect(targetURL).timeout(3000).get();
+        break;
+      } catch (IOException exception) {
+        LOGGER.info("Retry fetching: " + targetURL);
+      }
+      retry++;
+    }
+    if (root == null) {
+      LOGGER.warning("Fail to download: " + targetURL);
+    }
+    return root;
+  }
 }

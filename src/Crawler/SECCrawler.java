@@ -8,7 +8,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
-import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -44,11 +43,13 @@ public class SECCrawler extends Crawler {
         String[] parsedRule = rule.split("\t");
 
         for (String url : urlInProcess) {
-          Document pageRoot = Jsoup.connect(url).get();
-          Elements elements = pageRoot.select(parsedRule[0]);
-          for (Element e : elements) {
-            if (parsedRule.length > 1) {
-              urlNext.add(url + '/' + e.attr(parsedRule[1]));
+          Document pageRoot = fetchPage(url);
+          if (pageRoot != null) {
+            Elements elements = pageRoot.select(parsedRule[0]);
+            for (Element e : elements) {
+              if (parsedRule.length > 1) {
+                urlNext.add(url + '/' + e.attr(parsedRule[1]));
+              }
             }
           }
         }
@@ -64,13 +65,15 @@ public class SECCrawler extends Crawler {
         if (!folder.exists()) {
           folder.mkdir();
         }
-        BufferedWriter writer = new BufferedWriter(new FileWriter(
-            folder.getPath() + '/' + s.getFilingYear() + "-" + s.getFilingQuarter() + ".html"));
-        Document pageRoot = Jsoup.connect(url).get();
+
+        Document pageRoot = fetchPage(url);
         if (pageRoot != null) {
+          BufferedWriter writer = new BufferedWriter(new FileWriter(
+              folder.getPath() + '/' + s.getFilingYear() + "-" + s.getFilingQuarter() + ".html"));
+
           writer.write(pageRoot.html());
+          writer.close();
         }
-        writer.close();
       }
     } catch (IOException exception) {
       LOGGER.info(exception.getMessage());

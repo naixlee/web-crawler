@@ -7,7 +7,6 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.concurrent.TimeUnit;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -16,9 +15,13 @@ import org.jsoup.select.Elements;
 /**
  * Created by Xian Li on 8/12/15.
  */
-public class SECCrawler extends Crawler {
-  public SECCrawler(ArrayList<Seed> seeds, String output) {
-    super(seeds, output);
+public class SECCrawler extends Crawler implements Runnable {
+  public SECCrawler(ArrayList<Seed> seeds, String output, String[] rules) {
+    super(seeds, output, rules);
+  }
+
+  public void run() {
+    getPagesWithDepth(initialSeeds);
   }
 
   /**
@@ -59,8 +62,8 @@ public class SECCrawler extends Crawler {
       }
 
       for (String url : urlInProcess) {
-        System.out.println(url);
         SECSeed s = (SECSeed) seed;
+        System.out.println("Crawler: " +Thread.currentThread().getId() + "\t" + url + "\t" + s.getLiCompanyID() + "\t" + s.getFilingYear() + "\t" + s.getFilingQuarter());
         File folder = new File(outputFolder + '/' + s.getLiCompanyID());
         if (!folder.exists()) {
           folder.mkdir();
@@ -80,9 +83,9 @@ public class SECCrawler extends Crawler {
     }
   }
 
-  public void getPagesWithDepth(ArrayList<Seed> seeds, String[] rules) {
+  public void getPagesWithDepth(ArrayList<Seed> seeds) {
     for (Seed s : seeds) {
-      getPageWithDepth(s, rules);
+      getPageWithDepth(s, extractRules);
     }
   }
 }

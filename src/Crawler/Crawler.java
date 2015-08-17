@@ -8,10 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 import java.util.concurrent.TimeUnit;
-import java.util.logging.FileHandler;
-import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -23,15 +20,16 @@ import org.jsoup.nodes.Document;
 public abstract class Crawler {
 
   public static final Logger LOGGER = Logger.getLogger(Crawler.class.getName());
-  public static FileHandler ERROR_CASE_HANDLER = null;
   public static int MAX_RETRY = 3;
 
   protected ArrayList<Seed> initialSeeds;
   protected String outputFolder;
+  protected String[] extractRules;
 
-  public Crawler(ArrayList<Seed> seeds, String output) {
+  public Crawler(ArrayList<Seed> seeds, String output, String[] rules) {
     initialSeeds = seeds;
     outputFolder = output;
+    extractRules = rules;
   }
 
   public ArrayList<Seed> getInitialSeeds() {
@@ -89,9 +87,8 @@ public abstract class Crawler {
   /**
    * Crawl a list of urls in single thread manner.
    * @param seeds
-   * @param xpathRules
    */
-  public abstract void getPagesWithDepth (ArrayList<Seed> seeds, String[] xpathRules);
+  public abstract void getPagesWithDepth (ArrayList<Seed> seeds);
 
   /**
    * Use JSoup to fetch the web page. Allow MAX_RETRY times of retries. Log the url if failed after max number

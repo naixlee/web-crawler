@@ -1,0 +1,23 @@
+apply plugin: 'java'
+
+repositories {
+  mavenCentral()
+}
+
+sourceCompatibility = 1.8
+version = '1.0'
+
+dependencies {
+  compile fileTree(dir: 'libs', include: ['*.jar'])
+  testCompile (
+      ['org.testng:testng:6.9.6']
+  )
+}
+
+jar {
+  from {
+    configurations.compile.collect {
+      it.isDirectory() ? it : zipTree(it)
+    }
+  }
+}

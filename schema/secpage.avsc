@@ -1,0 +1,12 @@
+{"namespace": "schema.avro",
+ "type": "record",
+ "name": "SECPageSource",
+ "fields": [
+     {"name": "li_company_id", "type": "string"},
+     {"name": "name", "type": ["string", "null"]}, 
+     {"name": "cik", "type": ["string", "null"]},
+     {"name": "filing_year",  "type": ["string", "null"]},
+     {"name": "filing_quarter", "type": ["string", "null"]},
+     {"name": "page_source", "type": ["string", "null"]}
+ ]
+}

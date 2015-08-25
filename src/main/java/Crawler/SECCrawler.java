@@ -64,7 +64,7 @@ public class SECCrawler extends Crawler implements Runnable {
 
       for (String url : urlInProcess) {
         SECSeed s = (SECSeed) seed;
-        System.out.println("Crawler: " +Thread.currentThread().getId() + "\t" + url + "\t" + s.getLiCompanyID() + "\t" + s.getFilingYear() + "\t" + s.getFilingQuarter());
+        System.out.println("Crawler: " +Thread.currentThread().getId() + "\t" + s.getLiCompanyID() + "\t" + s.getCompanyName() + "\t" + s.getCik()+ s.getFilingYear() + "\t" + s.getFilingQuarter() + "\t" + url);
         File folder = new File(outputFolder + '/' + s.getLiCompanyID());
         if (!folder.exists()) {
           folder.mkdir();
@@ -74,9 +74,12 @@ public class SECCrawler extends Crawler implements Runnable {
         if (pageRoot != null) {
           BufferedWriter writer = new BufferedWriter(new FileWriter(
               folder.getPath() + '/' + s.getFilingYear() + "-" + s.getFilingQuarter() + ".html"));
-
+          BufferedWriter logwriter = new BufferedWriter(new FileWriter(outputFolder + Thread.currentThread().getId() + ".log", true));
           writer.write(pageRoot.html());
           writer.close();
+          logwriter.append(s.getLiCompanyID() + "\t" + s.getCompanyName() + "\t" + s.getCik()+ s.getFilingYear() + "\t" + s.getFilingQuarter() + "\t" + url + "\n");
+          logwriter.close();
+
         }
       }
     } catch (IOException exception) {

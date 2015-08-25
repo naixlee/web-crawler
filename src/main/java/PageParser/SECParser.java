@@ -69,6 +69,7 @@ public class SECParser extends Parser {
         i = i + 1;
       }
       BufferedWriter writer = new BufferedWriter(new FileWriter(outputFile));
+      StringBuilder textContent = new StringBuilder();
       Elements tables = root.getElementsByTag("table");
       for (Element t : tables) {
         Elements rows = t.getElementsByTag("tr");
@@ -79,9 +80,14 @@ public class SECParser extends Parser {
             if (cellText.trim().length() > 0) text += cellText.trim() + "\t";
           }
           if (text.trim().length() > 0)
-            writer.write(text.trim() + "\n");
+            textContent.append(text.trim() + "\n");
         }
       }
+
+      if (textContent.length() == 0) {
+        LOGGER.info("Fail to extract: " + filePath);
+      }
+      writer.write(textContent.toString());
       writer.close();
     } catch (IOException ioException) {
       LOGGER.info(ioException.getMessage());

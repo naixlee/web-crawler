@@ -11,11 +11,17 @@ import java.util.logging.Logger;
 public abstract class Parser implements Runnable {
   public static final Logger LOGGER = Logger.getLogger(Parser.class.getName());
 
-  protected ArrayList<String> _filePathToProcess;
+  /**
+   * List directories containing web pages to be processed
+   */
+  protected String _inputHome;
+  /**
+   * Root directory of extracted information
+   */
   protected String _outputHome;
 
-  public Parser(ArrayList<String> filePaths, String outputPath) {
-    _filePathToProcess = filePaths;
+  public Parser(String rootPath, String outputPath) {
+    _inputHome = rootPath;
     _outputHome = outputPath;
   }
 

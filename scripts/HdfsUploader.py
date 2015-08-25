@@ -58,6 +58,6 @@ for subdir in dirs:
                     item['name'] = info[0]
                     item['cik'] = info[1]
                 item['page_source'] = content.read()
-                print item['li_company_id'], item['name'], item['cik'], item['filing_year'], item['filing_quarter']
+                #print item['li_company_id'], item['name'], item['cik'], item['filing_year'], item['filing_quarter']
                 writer.append(item)
 writer.close()

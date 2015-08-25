@@ -1,0 +1,699 @@
+NAME	STATE OR JURISDICTION OF INCORPORATION	PERCENT OF OWNERSHIP
+Thermo Electron Australia Pty Limited [31.56% by Thermo BioAnalysis LLC]	Australia	68.44
+Thermo Informatics Asia Pacific Pty Ltd.	Australia	100
+Thermo Optek (Australia) Pty Ltd.	Australia	100
+Thermo Trace Pty Ltd.	Australia	100
+Thermo Fisher Scientific Australia Pty Ltd	Australia	100
+Lomb Scientific (Aust) Pty Limited	Australia	100
+Scot Scientific Pty Limited	Australia	100
+Fronine Pty Limited	Australia	100
+Ajax Finechem Pty Limited	Australia	100
+Ajax Finechem (NZ) Limited	New Zealand	100
+Promedica Pty Limited	Australia	100
+Technology Design Solutions Pty Ltd	Australia	100
+App-Tek International Pty Ltd	Australia	100
+EnviroEquip Pty Ltd	Australia	100
+Thermo Fisher Scientific New Zealand Holdings	New Zealand	100
+Thermo Fisher Scientific New Zealand Limited	New Zealand	100
+Bearcat Acquisition Company LLC	Delaware	100
+Thermo Gamma-Metrics Holdings Pty Ltd.	Australia	100
+Thermo Gamma-Metrics Pty Ltd	Australia	100
+Intalysis Pty Ltd	Australia	100
+Thermo Electron (Chile) S.A. [.20% held privately]	Chile	99.8
+Thermo Electron A/S	Denmark	100
+Laboratory Management Systems, Inc.	Delaware	100
+Thermo Fisher Scientific Peru S.A. [1% by Fisher Clinical Services (Peru) LLC]	Peru	99
+Thermo Scientific Korea Ltd.	Korea	100
+Fisher Clinical Logistics LLC	Delaware	100
+Fisher Clinical Services Limited Liability Company [1% by Thermo Fisher Scientific Inc.]	Russia	99
+Fisher Clinical Services Japan K.K.	Japan	100
+Thermo Fisher Scientific Mexico City, S. de R.L. de C.V. [1% by Thermo Fisher Scientific (Mexico City) LLC]	Mexico	99
+Open BioSystems, Inc.	Delaware	100
+TFLP LLC	Delaware	100
+Cohesive Technologies Inc.	Delaware	100
+Cohesive Technologies (UK) Limited	England	100
+Thermo Hypersil-Keystone LLC	Delaware	100
+Fisher Worldwide Distribution SPV	Cayman Islands	100
+Thermo Fisher Scientific Operating Company LLC	Delaware	100
+Thermo Fisher Scientific Senior Financing LLC	Delaware	100
+Thermo Fisher Scientific (DE) Holding S.a.r.l.	Luxembourg	100
+TWX, LLC [22.5%byThermo Scientific Portable Analytical Instruments Inc]	Massachusetts	77.5
+Thermo Fisher GP LLC	Delaware	100
+Thermo Fisher Scientific C.V. [1% by TFLP LLC]	Netherlands	99
+Phadia GmbH	Germany	100
+Oxoid Australia Pty. Limited [35.5% by Oxoid International Limited]	Australia	64.5
+TFS Breda BV	Netherlands	100
+Thermo Dutch Holdings Limited Partnership [1% by Thermo Finland Holdings LLC]	England	99
+Thermo Cayman Holdings Ltd. [33.33% by Thermo Cambridge Limited]	Cayman Islands	66.67
+European Laboratory Holdings Limited	Ireland	100
+Thermo Fisher Investments (Cayman) Ltd.	Cayman Islands	100
+Thermo Suomi Holding B.V. [33.33%by Life Sciences International Holdings BV]	Netherlands	66.67
+Thermo Fisher (Finland Holdings 2) LLC	Delaware	100
+Thermo Fisher (Finland Holdings) Limited Partnership [.5% by Thermo Fisher (Finland Holdings 2) LLC]	England	99.5
+Thermo Fisher Scientific Oy	Finland	100
+Finnzymes Inc.	Delaware	100
+BioInnovations, Inc.	New Hampshire	100
+Thermo Fisher India Holding B.V. [6.13% by Thermo Fisher Scientific Inc., .68% by Thermo Gamma-Metrics LLC and 30.74% by Thermo Fisher Scientific (Ashville) LLC]	Netherlands	62.45
+Thermo Fisher Scientific India Pvt Ltd [.01% by Thermo Fisher Scientific Inc.]	India	99.99
+Thermo Electron India Private Limited [0.01% by Thermo Fisher Scientific Inc.]	India	99.99
+Kendro Laboratory Products India Pvt. Ltd. [0.0002% by Thermo Fisher Scientific Inc.]	India	99.9998
+Thermo Shandon Limited	England	100
+Raymond A Lamb Limited	England	100
+Thermo Electron Manufacturing Limited	England	100
+Thermo Nicolet Limited	England	100
+Thermo Elemental Limited	England	100
+Thermo Finnigan Limited	England	100
+Thermo Hypersil Ltd	England	100
+GV Instruments Limited	England	100
+HTX Limited	England	100
+Analytical Precision Products Limited	England	100
+GV Instruments Inc	Delaware	100
+GV Instruments Canada Ltd.	Canada	100
+JSC “Thermo Fisher Scientific”	Russia	100
+Fisher Clinical Services Mexico, S. de R.L. de C.V. [1% by Fisher Clinical Services (Mexico) LLC]	Mexico	99
+Fisher Clinical Services (Mexico) LLC	Delaware	100
+D-finitive Technologies, Inc.	South Carolina	100
+Thermo Scientific Portable Analytical Instruments Inc	Delaware	100
+Trek Diagnostic Systems, Inc.	Delaware	100
+Trek Holding Company Ltd.	England	100
+Trek Holding Company II Ltd.	England	100
+Trek Diagnostic Systems Ltd.	England	100
+Thermo Fisher Germany B.V.	Netherlands	100
+NovaWave Technologies, Inc.	California	100
+Thermo Fisher Re Ltd. [20% by Thermo Fisher Insurance Holdings Inc.]	Bermuda	80
+Thermo Finland Holdings LLC	Delaware	100
+Pelican Acquisition Corporation	Delaware	100
+Priority Air Holdings Corp	Delaware	100
+Priority Air Express, LLC	Delaware	100
+Priority Air Express UK Limited	England	100
+Priority Air Express Pte. Ltd.	Singapore	100
+PAX – DSI Acquisition LLC	Delaware	100
+Distribution Solutions International, Inc.	Michigan	100
+Thermo EGS Gauging, Inc.	Delaware	100
+EGS Gauging Technical Services Company	Delaware	100
+EGS Gauging Ltd.	England	100
+EGS Gauging Pty Ltd	Australia	100
+Thermo Asset Management Services Inc.	Delaware	100
+Ionalytics Corporation	Canada	100
+Thermo CRS Holdings Ltd.	Canada	100
+Thermo CRS Ltd.	Canada	100
+Robocon Labor- und Industrieroboter Gesellschaft m.b.H	Austria	100
+CRS Robotics France EURL [.04% by Thermo Electron Holdings SAS]	France	99.96
+Thermo Electron North America LLC	Delaware	100
+picoSpin, LLC	Colorado	100
+Loftus Furnace Company	Pennsylvania	100
+NAPCO, Inc.	Connecticut	100
+Fisher Clinical Services (Colombia) LLC	Delaware	100
+Fisher Clinical Services Colombia S.A.S.	Colombia	100
+Fisher Clinical Services (Peru) LLC	Delaware	100
+Fisher Clinical Services Peru S.R.L [1% by Thermo Fisher Scientific Inc.]	Peru	99
+Fisher Servicios Clinicos (Chile) LLC	Delaware	100
+Fisher Servicios Clinicos Chile Ltda [1% by Thermo Fisher Scientific Inc.]	Chile	99
+Staten Island Cogeneration Corporation	New York	100
+Doe & Ingalls Investors, Inc.	Delaware	100
+Doe & Ingalls Management, LLC [46%by Thermo Fisher Scientific Inc.]	Delaware	54
+Doe & Ingalls of California Operating LLC	North Carolina	100
+Doe & Ingalls of Florida Operating LLC	Florida	100
+Doe & Ingalls of Maryland Operating LLC	North Carolina	100
+Doe & Ingalls of Massachusetts Operating LLC	North Carolina	100
+Doe & Ingalls of North Carolina Operating LLC	North Carolina	100
+Doe & Ingalls Properties II, LLC	North Carolina	100
+Doe & Ingalls Properties, LLC	North Carolina	100
+Thermo Electron Export Inc.	Barbados	100
+Thermo Fisher Scientific (Mexico City) LLC	Delaware	100
+Odyssey Luxembourg Holdings S.à r.l.	Luxembourg	100
+Odyssey Venture Corporation	Delaware	100
+Odyssey Holdings Corporation	Delaware	100
+One Lambda, Inc	California	100
+Odyssey Luxembourg IP Holdings 1 S.à r.l.	Luxembourg	100
+Odyssey Luxembourg IP Holdings 2 S.à r.l.	Luxembourg	100
+Thermo Fisher Scientific Odyssey Holdings Limited	England	100
+Thermo Fisher Scientific BioProduction Pte. Ltd.	Singapore	100
+Thermo Foundation, Inc.	Massachusetts	100
+Thermo Fisher Financial Services Inc.	Delaware	100
+Russell pH Limited	Scotland	100
+Thermo Keytek LLC	Delaware	100
+Thermedics Detection de Argentina S.A. [10% by Thermo Ramsey Inc.]	Argentina	90
+Fisher Clinical Services Latin America S.R.L. [10% by Thermo Ramsey Inc.]	Argentina	90
+Thermo Detection de Mexico, S.A. de C.V. [1% by Thermo Environmental Instruments Inc.]	Mexico	99
+Goring Kerr Detection Limited	England	100
+Thermo Sentron Canada Inc. [10% by Thermo Fisher Scientific Inc.]	Canada	90
+Thermo Ramsey S.A.	Spain	100
+Thermo Ramsey Inc.	Massachusetts	100
+Thermo Fisher Scientific Brasil Instrumentos de Processo Ltda. [.01% by Thermo Ramsey Inc.]	Brazil	99.99
+Thermo Re, Ltd.	Bermuda	100
+Thermo Electron (Proprietary) Limited	South Africa	100
+Comtest Limited	England	100
+Thermo Electron Metallurgical Services, Inc.	Texas	100
+ONIX Systems Inc.	Delaware	100
+Thermo Process Instruments GP, LLC	Delaware	100
+Thermo Process Instruments,L.P. [0.10% by Thermo Process Instruments GP, LLC]	Texas	99.90
+Thermo Measuretech Canada Inc.	Canada	100
+Onix Holdings Limited	England	100
+CAC Limited	England	100
+Thermo Measurement Ltd	England	100
+H.P.L.C. Technology Company Limited	England	100
+Thermo Onix Limited	England	100
+Thermo Electron Scientific Instruments LLC	Delaware	100
+Thermo Fisher Scientific Japan Holdings I B.V.	Netherlands	100
+Fuji Partnership [19.8342% by Thermo Fisher Scientific Japan Holdings II B.V.]	Japan	80.1658
+Thermo Fisher Scientific (NK) LLC	Delaware	100
+Thermo Fisher Eurobonds Ltd.	Cayman Islands	100
+Thermo Fisher Scientific (Mississauga) Inc. [0% by Thermo Finnigan LLC]	Canada	100
+Life Sciences International Limited	England	100
+Thermo Detection Limited	England	100
+Hybaid Limited	England	100
+Equibio Limited	England	100
+Thermo Optek Limited	England	100
+Thermo Cambridge Limited	England	100
+VG Systems Limited	England	100
+Thermo Radiometrie Limited	England	100
+Thermo Electron Limited	England	100
+Thermo Electron Weighing & Inspection Limited	England	100
+Thermo Sentron Limited	England	100
+Thermo Allen Coding Limited	England	100
+Thermo Electron (Management Services) Limited	England	100
+Life Sciences International Holdings BV	Netherlands	100
+Bioanalysis Labsystems, S.A. [10% by Thermo Fisher Scientific B.V.]	Spain	90
+Life Sciences International (Poland) SP z O.O	Poland	100
+Thermo Ramsey Italia S.r.l.	Italy	100
+Comdata Services Limited	England	100
+Helmet Securities Limited [.01%by Comdata Services Limited]	England	99.99
+Life Sciences International LLC	Delaware	100
+Thermo Fisher Scientific (Asheville) LLC	Delaware	100
+Thermo Neslab LLC	New Hampshire	100
+Thermo Fisher Scientific Japan Holdings II B.V.	Netherlands	100
+Lab-Line Instruments, Inc.	Delaware	100
+Thermo Scientific Services, Inc.	California	100
+Thermo Fisher Scientific (Fuji) LLC	Delaware	100
+Jouan LLC	Delaware	100
+Kendro Laboratory Products Pty., Ltd.	Australia	100
+Omnigene Limited [41.53% by Thermo Electron (Management Services) Limited]	England	58.47
+Thermo Kevex X-Ray Inc.	Delaware	100
+Thermo Gamma-Metrics LLC	Delaware	100
+ThermoSpectra Limited	England	100
+Thermo Electron Sweden Forvaltning AB	Sweden	100
+Spectra-Physics AB	Sweden	100
+Spectra-Physics Holdings USA, Inc.	Delaware	100
+Thermo MF Physics LLC	Delaware	100
+Spectra-Physics Holdings Limited	England	100
+Saroph Sweden AB	Sweden	100
+Thermo Electron Sweden AB	Sweden	100
+Thermo Life Sciences AB	Sweden	100
+Laser Analytical Systems, Inc.	California	100
+Thermo Finnigan LLC	Delaware	100
+TMOI Inc.	Delaware	100
+Princeton Security Technologies, Inc.	Nevada	100
+Princeton Gamma-Tech Instruments, Inc.	New Jersey	100
+Thermo Fisher Scientific (China) Holding Limited	England	100
+Thermo Fisher Scientific (China-HK) Holding Limited	Hong Kong	100
+Thermo Fisher Scientific (Shanghai) Instruments Co., Ltd.	China	100
+Thermo Fisher Scientific (Suzhou) Instruments Co., Ltd	China	100
+Thermo Fisher Scientific (China) Co., Ltd.	China	100
+Thermo Fisher Scientific (Shanghai) Management Co., Ltd.	China	100
+Thermo Fisher Scientific (Hong Kong) Limited	Hong Kong	100
+Thermo Life Science International Trading (Tianjin) Co., Ltd.	China	100
+Thermo Fisher Scientific K.K.	Japan	100
+TK Partnership (aka Silent Partnership) [49.51% by Fuji Partnership]	Japan	50.49
+Thermo Fisher Scientific SL	Spain	100
+Thermo Fisher (Cayman) Holdings I Ltd.	Cayman Islands	100
+Thermo Fisher (Gibraltar) Limited [50% by Thermo Fisher (Cayman) Holdings II Ltd.]	Gibraltar	50
+Thermo Fisher (Gibraltar) II Limited	Gibraltar	100
+Navaho Acquisition Corp.	Delaware	100
+NanoDrop Technologies LLC	Delaware	100
+Thermo Fisher (Cayman) Holdings II Ltd.	Cayman Islands	100
+Thermo BioAnalysis LLC [5.1% by Life Sciences International Limited and 9.4% by Life Sciences International LLC]	Delaware	85.5
+Thermo LabSystems S.A.	Spain	100
+Thermo Fisher German Holdings LLC	Delaware	100
+Thermo Holding European Operations LLC	Delaware	100
+Thermo DMA Inc.	Texas	100
+Thermo Shandon Inc.	Pennsylvania	100
+Thermo BioAnalysis Limited	England	100
+Thermo Fast U.K. Limited	England	100
+Thermo Projects Limited	England	100
+Thermo LabSystems Inc.	Massachusetts	100
+InnaPhase Limited	England	100
+InnaPhase, Inc.	Canada	100
+Thermo Environmental Instruments Inc.	California	100
+27 Forge Parkway LLC	Delaware	100
+Thermo Electron (Calgary) Limited	Canada	100
+Thermo Orion Inc.	Massachusetts	100
+Thermo Fisher Scientific Aquasensors LLC	Delaware	100
+Thermo Electron Puerto Rico, Inc.	Puerto Rico	100
+Thermo CIDTEC Inc.	New York	100
+Thermo Power Corporation	Massachusetts	100
+ACI Holdings Inc.	New York	100
+Thermo Securities Corporation	Delaware	100
+Thermo Instrument Controls de Mexico, S.A. de C.V. [2% by Thermo Fisher Scientific Inc.]	Mexico	98
+Thermo Eberline LLC [49% by Thermo Fisher Scientific Inc.]	Delaware	51
+ThermoLase LLC	Delaware	100
+Trex Medical Corporation	Delaware	100
+Thermo Corporation	Delaware	100
+Fisher Scientific GmbH	Germany	100
+Fisher Scientific (Polska) Sp. z o.o.	Poland	100
+Fisher Scientific Germany Beteiligungs GmbH	Germany	100
+Fisher Scientific d.o.o.	Slovenia	100
+Fisher Scientific, spol. S.r.o[33% held privately]	Czech Republic	67
+Fisher Scientific (Austria) GmbH	Austria	100
+Thermo Fisher Scientific Germany BV & Co. KG [0% by Thermo Fisher Germany B.V.]	Germany	100
+Microgenics Corporation	Delaware	100
+Consolidated Technologies, Inc.	Wisconsin	100
+Microgenics Diagnostics Pty Limited	Australia	100
+Remel Inc.	Wisconsin	100
+Separation Technology, Inc.	Delaware	100
+Thermo Luxembourg Holding S.a.r.l.	Luxembourg	100
+Fermentas International ULC	Canada	100
+Fermentas Canada Inc.	Canada	100
+Fermentas Inc.	Maryland	100
+Oxoid Investments GmbH	Germany	100
+B.R.A.H.M.S. GmbH [5.025% by Thermo Fisher Scientific Beteiligungsverwaltungs GmbH]	Germany	94.975
+B.R.A.H.M.S. Biotech GmbH [6% held privately]	Germany	94
+B.R.A.H.M.S. Austria GmbH	Austria	100
+B.R.A.H.M.S. Italia s.r.l.	Italy	100
+B.R.A.H.M.S. France S.A.S	France	100
+Quatuor S.A. [.01% held privately]	France	99.99
+Cezanne S.A.S. [14.75% by B.R.A.H.M.S. GmbH]	France	85.25
+HENO GmbH i.L.	Germany	100
+B.R.A.H.M.S. UK Ltd	England	100
+B.R.A.H.M.S. Iberia S.L.	Spain	100
+Fermentas GmbH	Germany	100
+Fermentas Sweden AB	Sweden	100
+Fermentas UK Limited	England	100
+Thermo Fisher Scientific Chromatography Holdings S.à r.l. [1.28% by Thermo Fisher Scientific B.V.]	Luxembourg	98.72
+Thermo Fisher Scientific B.V.B.A.	Belgium	100
+Thermo Fisher Scientific Chromatography Holdings Aps	Denmark	100
+Dionex Corporation	Delaware	100
+Dionex Sweden AB	Sweden	100
+Dionex Brasil Instrumentos Cientificos Ltda [.01 by Thermo Fisher Scientific Brasil Instrumentos de Processo Ltda.] [Missing Graphic Reference]	Brazil	99.99
+Dionex I, LLC	Delaware	100
+Dionex (Switzerland) AG	Switzerland	100
+Broad Field I B.V.	Netherlands	100
+Dionex (Europe) Management AG	Switzerland	100
+Dionex Canada Ltd.	Canada	100
+Dionex Austria GmbH	Austria	100
+Dionex Benelux B.V.	Netherlands	100
+Dionex Holding GmbH	Germany	100
+Dionex GmbH [5% by Dionex Corporation]	Germany	95
+Dionex Softron GmbH	Germany	100
+Dionex Singapore Pte Ltd.	Singapore	100
+Nippon Dionex K.K.	Japan	100
+Dionex Korea Ltd.	Korea	100
+Dionex S.A.	France	100
+Dionex Ireland Limited	Ireland	100
+Dionex (UK) Limited	England	100
+Dionex S.p.A. [0.08% held privately]	Italy	99.92
+Dionex Pty Ltd.	Australia	100
+Dionex China Limited	Hong Kong	100
+Dionex (China) Analytical Ltd	China	100
+Thermo Fisher Scientific Taiwan Co., Ltd. [Missing Graphic Reference]	Taiwan	100
+Dionex Denmark A/S	Denmark	100
+Dionex (India) Private Limited [1% by Thermo Fisher Scientific Inc.]	India	99
+Thermo Fisher Scientific Lithuania Holding UAB	Lithuania	100
+Fermentas UAB	Lithuania	100
+Fermentas China Co., Ltd	China	100
+Thermo TLH (UK) Limited	England	100
+Thermo Fisher Scientific (Breda) Holding BV	Netherlands	100
+Concept to Volume B.V.	Netherlands	100
+Concept to Volume Products B.V.	Netherlands	100
+Thermo Fisher Scientific B.V.	Netherlands	100
+Thermo Optek S.A.	Spain	100
+Thermo Fisher Scientific Finance Company BV	Netherlands	100
+Thermo Quest S.A.	Spain	100
+Thermo Fisher Scientific (Delft) Holding B.V.	Netherlands	100
+Thermo Fisher Scientific (Delft) B.V.	Netherlands	100
+Thermo Luxembourg S.a.r.l.	Luxembourg	100
+Thermo Electron Deutschland GmbH	Germany	100
+Thermo Electron IT Services GmbH	Germany	100
+Thermo Electron GmbH	Germany	100
+Thermo Fisher Scientific GmbH	Germany	100
+Thermo Fisher Scientific (Real Estate 1) S.a.r.l.	Luxembourg	100
+Thermo Fisher Scientific MesstechnikGmbH [10.04% by Thermo Fisher Scientific (Real Estate 1) GmbH & Co. KG]	Germany	89.96
+Niton Europe GmbH	Germany	100
+Thermo Electron (Karlsruhe) GmbH [10% by Thermo Fisher Scientific (Real Estate 1) GmbH & Co. KG]	Germany	90
+Thermo Electron Pension Trust GmbH	Germany	100
+Thermo Fisher Scientific (Real Estate 1) GmbH & Co. KG[0% by Fisher Scientific Germany Beteiligungs GmbH as the Genera Partner]	Germany	100
+Thermo Fisher Scientific (Bremen) GmbH [10% by Thermo Fisher Scientific (Real Estate 1) GmbH & Co. KG]	Germany	90
+La-Pha-Pack GmbH	Germany	100
+Thermo Electron LED GmbH [10% by Thermo Fisher Scientific (Real Estate 1) GmbH & Co. KG]	Germany	90
+TKA India Private Limited [0.001% held privately]	India	99.999
+Thermo Electron LED GmbH	Austria	100
+Thermo TLH L.P. [0.01%by Thermo TLH (U.K.) Limited]	Delaware	99.99
+Gerhard Menzel GmbH [3.85% by Erie Electroverre S.A.]	Germany	96.15
+Microm International GmbH	Germany	100
+Oxoid Deutschland GmbH	Germany	100
+Microgenics GmbH	Germany	100
+ILS Laboratories Scandinavia, AB	Sweden	100
+Barnstead Thermolyne LLC	Delaware	100
+Thermo Fisher Scientific China Holdings I B.V.	Netherlands	100
+Thermo Fisher Scientific China Holdings II B.V.	Netherlands	100
+Thermo Fisher Scientific China Holdings III B.V.	Netherlands	100
+Thermo Fisher China Business Trust [1% by Thermo Fisher Scientific China Holdings IV B.V.]	China	99
+Thermo Fisher Scientific China Holdings IV B.V.	Netherlands	100
+Fisher Scientific International LLC	Delaware	100
+NERL Diagnostics LLC	Wisconsin	100
+FHP LLC	Delaware	100
+Alchematrix, Inc.	Delaware	100
+Fisher Internet Minority Holdings L.L.C.	Delaware	100
+Alchematrix LLC	Delaware	100
+Apogent Technologies Inc.	Wisconsin	100
+Apogent Holding Company	Delaware	100
+Niton Asia Limited	Hong Kong	100
+Matrix Technologies LLC	Delaware	100
+Molecular BioProducts, Inc.	California	100
+Intrinsic BioProbes, Inc.	Arizona	100
+Labomex MBP, S. de R. L. De C.V. [.04% by Apogent Technologies Inc.]	Mexico	99.96
+National Scientific Company	Wisconsin	100
+Lab-Chrom-Pack LLC	New York	100
+Robbins Scientific LLC	California	100
+Apogent Transition Corp.	Delaware	100
+Erie Scientific LLC	Delaware	100
+Erie-Watala Glass Company Limited [42% held privately]	Hong Kong	58
+Thermo Fisher Scientific Switzerland Holdings C.V. [.01% by Apogent Technologies Inc.]	Netherlands	99.99
+SwissAnalytic Group GmbH	Switzerland	100
+Thermo Fisher Scientific (Ecublens) SARL	Switzerland	100
+Fisher Luxembourg Danish Holdings SARL	Luxembourg	100
+Fisher Holdings ApS	Denmark	100
+Apogent Denmark ApS	Denmark	100
+Fisher BioImage ApS	Denmark	100
+Nunc A/S	Denmark	100
+Proxeon Biosystems A/S	Denmark	100
+Thermo Fisher Scientific Europe GmbH	Switzerland	100
+Thermo Fisher Scientific Holdings Europe Limited	England	100
+Thermo Fisher Scientific SpA	Italy	100
+Erie Electroverre S.A.	Switzerland	100
+Thermo Fisher Scientific (Zurich) AG	Switzerland	100
+Kendro Laboratory Products Ltd	England	100
+Kendro Containment & Services Limited	England	100
+Thermo Fisher Scientific (Johannesburg) (Proprietary) Limited	South Africa	100
+Flux Instruments AG	Switzerland	100
+Thermo Fisher Scientific (Schweiz) AG	Switzerland	100
+Thermo Fisher Scientific Wissenschaftliche Geräte GmbH	Austria	100
+Thermo Fisher Scientific (Praha) s.r.o.	Czech Republic	100
+Thermo Fisher Scientific (Bratislava) s.r.o.	Slovak Republic	100
+Metavac LLC	Delaware	100
+Abgene Inc.	Delaware	100
+Apogent Finance Company	Delaware	100
+Capitol Vial, Inc.	Alabama	100
+Capitol Scientific Products, Inc.	New York	100
+Chase Scientific Glass, Inc. [50%by Apogent Holding Company]	Wisconsin	50
+EP Scientific Products LLC	Delaware	100
+Erie Scientific Company of Puerto Rico	Delaware	100
+Erie Scientific Hungary Kft	Hungary	100
+Erie UK Holding Company	Delaware	100
+Erie LP Holding LLC	Delaware	100
+Fisher Scientific Investments (Cayman), Ltd.	Cayman Islands	100
+Erie U.K. Limited	England	100
+Nalge Nunc International Corporation	Delaware	100
+Thermo Fisher Scientific (Monterrey), S. De R.L. De C.V. [1% by Nalge Nunc International (Monterrey) LLC]	Mexico	99
+236 Perinton Parkway, LLC	New York	100
+ARG Services LLC	Delaware	100
+Owl Separation Systems LLC	Wisconsin	100
+Nalge Nunc International (Monterrey) LLC	Delaware	100
+Erie UK Senior Holding Limited [1.01% by Erie LP Holding LLC]	England	98.99
+LambTrack Limited	England	100
+Erie UK 1 Limited	England	100
+Erie UK 2 Limited	England	100
+Thermo BioSciences Holdings LLC	Delaware	100
+Hyclone Laboratories, Inc.	Utah	100
+STC Biomanufacturing, Inc.	Illinois	100
+HyClone International Trade (Tianjin) Co., Ltd	China	100
+National HyClone (Lanzhou) Bio-engineering Co., Ltd. [49% held privately]	China	51
+Pierce Biotechnology, Inc.	Delaware	100
+Perbio Science, Inc.	Delaware	100
+Pierce Milwaukee, Inc.	Delaware	100
+Pierce Milwaukee Holding Corp.	Delaware	100
+Thermo Fisher Scientific (Milwaukee) LLC [1% by Pierce Milwaukee, Inc.]	Delaware	99
+Advanced Biotechnologies Limited	England	100
+Abgene Limited	England	100
+Apogent U.K. Limited	England	100
+Matrix Technologies Corporation Limited	England	100
+Nalge (Europe) Limited	England	100
+Chromacol Limited	England	100
+Epsom Glass Industries Limited	England	100
+Remel Europe Limited	England	100
+Ever Ready Thermometer Co., Inc.	Wisconsin	100
+Fisher Asia Manufacturing Ventures Inc. [20% held privately]	British Virgin Islands	80
+Fisher Laboratory Products Manufacturing (Shanghai) Co., Ltd	China	100
+Richard -Allan Scientific Company	Wisconsin	100
+Lab Vision Corporation	California	100
+Lab Vision (UK) Limited [0.05% by Erie U.K. Limited]	England	99.95
+Neomarkers, Inc.	California	100
+Microm Laborgerate S.L.U	Spain	100
+Samco Scientific LLC	Delaware	100
+Samco Scientific (Monterrey) LLC	Delaware	100
+Seradyn Inc.	Delaware	100
+Applied Scientific Corporation	California	100
+Cellomics, Inc.	Delaware	100
+Fisher BioSciences Japan, KK	Japan	100
+CTPS Company	Delaware	100
+Clintrak Pharmaceutical Services, LLC	Delaware	100
+Fisher Clinical Services (Bristol), LLC	Delaware	100
+Clintrak Clinical Labeling Services, LLC	Delaware	100
+Fisher Clinical Services GmbH	Germany	100
+Cenduit GmbH [50% by Cenduit LLC]	Switzerland	50
+Columbia Diagnostics, Inc.	Delaware	100
+Drakeside Real Estate Holding Company LLC	Delaware	100
+Duke Scientific Corporation	California	100
+Fisher Clinical Services Inc.	Pennsylvania	100
+Thermo Fisher Scientific Brasil Serviços de Logística Ltda [.001% by Fisher BioServices Inc.]	Brazil	99.999
+Cole-Parmer Instrument Company	Illinois	100
+Cole-Parmer Instrument Company Limited	England	100
+Eutech Instruments Pte Ltd.	Singapore	100
+Eutech Instruments Europe B.V.	Netherlands	100
+Eutech Instruments Sdn Bhd	Malaysia	100
+Dharmacon, Inc.	Delaware	100
+Fisher BioServices Inc.	Virginia	100
+Southern Trials (Pty) Ltd.	South Africa	100
+Schantz Road LLC	Pennsylvania	100
+Specialty (SMI) Inc.	California	100
+Fisher Germany Holdings GmbH	Germany	100
+Fisher Hamilton China Inc.	Delaware	100
+Fisher Manufacturing (Malaysia) Sdn Bhd	Malaysia	100
+Fisher Scientific Brazil Inc.	Delaware	100
+Systems Manufacturing Corporation	Delaware	100
+Fisher Scientific Central America Inc.	Delaware	100
+Fisher Scientific Chile Inc.	Delaware	100
+Consultores Fisher Scientific Chile Ltd [50% by Fisher Scientific Worldwide Inc.]	Chile	50
+Fisher Scientific Colombia Inc.	Delaware	100
+Fisher Scientific Company L.L.C.	Delaware	100
+Fisher Scientific Costa Rica Sociedad de Responsabilidad Limitada	Costa Rica	100
+Thermo Fisher Scientific Brahms LLC	Delaware	100
+Biochemical Sciences LLC	Delaware	100
+Fisher Scientific de Mexico S.A.	Mexico	100
+Medical Analysis Systems, Inc.	Delaware	100
+Medical Analysis Systems International, Inc.	California	100
+Medical Diagnostics Systems, Inc.	California	100
+United Diagnostics, Inc.	Delaware	100
+Fisher Scientific Latin America Inc.	Delaware	100
+Fisher Scientific Mexico Inc.	Delaware	100
+FS Mexicana Holdings LLC [.01% by Fisher Scientific Mexicana, S. de R.L. de C.V]	Delaware	99.99
+Fisher Alder S. de R.L. de C.V. [.0020% by Fisher Scientific International LLC]	Mexico	99.998
+Fisher Hamilton Mexico LLC	Delaware	100
+Fisher Scientific Mexicana, S. de R.L. de C.V. [.01% by Fisher Scientific Worldwide Inc.]	Mexico	99.99
+FS Casa Rocas Holdings LLC [1% by Fisher Mexico, S. de R.L. de C.V]	Delaware	99
+Fisher Mexico, S. de R.L. de C.V. [.0000269% FS Casa Rocas Holdings LLC]	Mexico	99.9999731
+Fisher Scientific Middle East and Africa Inc.	Delaware	100
+Fisher Scientific Operating Company	Delaware	100
+Fisher Scientific Venezuela Inc.	Delaware	100
+Fisher Scientific Worldwide (Shanghai) Co., Ltd.	China	100
+Fisher Worldwide Gene Distribution SPV	Cayman Islands	100
+FRC Holding Inc., V	Delaware	100
+FS (Barbados) Capital Holdings Ltd.	Barbados	100
+Golden West Indemnity Company Limited	Bermuda	100
+Liberty Lane Real Estate Holding Company LLC	Delaware	100
+New FS Holdings Inc.	Delaware	100
+Hangar 215, Inc.	Delaware	100
+Thermo Fisher Scientific Pte. Ltd.	Singapore	100
+Scientific Products (Shanghai) Co., Ltd.	China	100
+Cole-Parmer India Pvt. Ltd [.001% by Fisher Scientific Company L.L.C. and 24.108% by Thermo Fisher Scientific Inc.]	India	75.891
+Union Lab Supplies Limited	Hong Kong	100
+Fisher Scientific Worldwide Inc.	Delaware	100
+FSIR Holdings (US) Inc. [1.265% by Fisher Clinical Services Inc.]	Delaware	98.735
+Liberty Lane Investment LLC	Delaware	100
+Fisher Scientific Holding Company LLC	Delaware	100
+Fisher Scientific Holdings (M) Sdn Bhd	Malaysia	100
+Bumi-Sans Sendirian Berhad	Malaysia	100
+Fisher Scientific (M) Sdn Bhd (10% by General Scientific Company Sdn Bhd (M))	Malaysia	90
+General Scientific Company Sdn Bhd (M) [14% by Pacific Rim Investment, Inc.]	Malaysia	86
+Fisher Scientific Holdings (S) Pte Ltd	Singapore	100
+Fisher Scientific Pte. Ltd. [16.57% by Fisher Scientific International LLC]	Singapore	83.43
+Fisher Scientific (SEA) Pte. Ltd.	Singapore	100
+Fisher Scientific Australia Pty Limited	Australia	100
+FSIR Holdings (UK) Limited	England	100
+FSWH Company LLC	Delaware	100
+FSI Receivables Company LLC	Delaware	100
+Fisher Bermuda Holdings Limited	Bermuda	100
+Fisher Holdings Luxembourg SARL	Luxembourg	100
+Fisher Scientific Worldwide Holdings I C.V. [5% by Fisher Scientific Worldwide Inc.]	Netherlands	95
+Thermo Fisher Scientific Holdings (Cayman) I	Cayman Islands	100
+Thermo Fisher Scientific Holdings (Cayman) II	Cayman Islands	100
+Phadia International Holdings C.V. [10% by FSIR Holdings (US) Inc]	Netherlands	90
+Power Sweden Holdings I AB	Sweden	100
+Power Sweden Holdings II AB	Sweden	100
+FSII Sweden Holdings I AB	Sweden	100
+FSII Sweden Holdings AB	Sweden	100
+Perbio Science AB	Sweden	100
+Thermo Fisher Scientific Investments (Luxembourg) S.a.r.l. [1% by FSII Sweden Holdings AB]	Luxembourg	99
+Thermo Fisher Scientific Malta Holdings LLC	Delaware	100
+Thermo Fisher Scientific Investments (Malta) Limited [.04% by Thermo Fisher Scientific Malta Holdings LLC]	Malta	99.960
+Hyclone AB	Sweden	100
+Thermo Fisher Scientific Tauranga Limited	New Zealand	100
+Perbio Science (Australia) Pty. Limited	Australia	100
+Perbio Science Sweden Holdings AB	Sweden	100
+Phadia Luxembourg Holdings S.a.r.l.	Luxembourg	100
+Phadia Malta Holdings Limited [.05 by Perbio Science Sweden Holdings AB]	Malta	99.95
+Fisher Scientific GTF AB	Sweden	100
+Fisher Scientific Biotech Line ApS	Denmark	100
+CB Diagnostics Holding AB	Sweden	100
+CB Diagnostics AB	Sweden	100
+Sweden DIA (Sweden) AB	Sweden	100
+Phadia Sweden AB	Sweden	100
+Phadia Holding AB	Sweden	100
+Phadia Diagnosticos Ltda [1% held by Phadia AB]	Brazil	99
+Beijing Phadia Diagnostics Co Ltd	China	100
+Allergon AB	Sweden	100
+Nanjing WeiKangLe Trading Industrial Co Ltd	China	100
+Phadia India Private Ltd [1% by Phadia AB]	India	99
+Laboratory Specialties Proprietary Ltd.	South Africa	100
+MIAB Mälainvest AB	Sweden	100
+Phadia AB	Sweden	100
+Phadia Real Property AB	Sweden	100
+Phadia US Inc.	Delaware	100
+Hyclone UK Limited	England	100
+Perbio Science UK Limited	England	100
+Perbio Science Invest AB	Sweden	100
+Perbio Science Nederland B.V.	Netherlands	100
+Perbio Science Projekt AB	Sweden	100
+Perbio Science Switzerland SA [.3% held privately]	Switzerland	99.7
+Fisher Scientific Holding HK Limited [.01% by Fisher Scientific Holding Company LLC]	Hong Kong	99.99
+Fisher Scientific (Hong Kong) Limited [.0022 Fisher Scientific Holding Company LLC]	Hong Kong	99.978
+FSWH II C.V. [.0328% by Fisher WWD Holding L.L.C. and 1.4695% by Fisher Clinical Services Inc.]	Netherlands	98.4977
+Thermo Fisher Senior Canada Holdings LLC	Delaware	100
+Thermo Fisher Insurance Holdings Inc.	Delaware	100
+Thermo Fisher Insurance Holdings LLC [45.62% by Thermo Fisher Re Ltd.]	Delaware	54.38
+Thermo Scientific Microbiology Sdn Bhd	Malaysia	100
+Thermo Scientific Microbiology Pte Ltd.	Singapore	100
+Perbio Science BVBA	Belgium	100
+Fisher Canada Holding ULC 1	Canada	100
+Fisher Canada Holding ULC 2	Canada	100
+Fisher CLP Holding Limited Partnership [1.6% by Fisher Canada Holding ULC 2]	Canada	98.4
+Thermo Fisher Scientific Beteiligungsverwaltungs GmbH	Germany	100
+Phadia ApS	Denmark	100
+Phadia S.r.l.	Italy	100
+Phadia s.r.o. [1% by Phadia AB]	Czech Republic	99
+Phadia B.V.	Netherlands	100
+Phadia AS	Norway	100
+Phadia Korea Co.,Ltd.	Korea	100
+Phadia Taiwan Inc.	Taiwan	100
+Phadia AG	Switzerland	100
+Phadia Ltd.	England	100
+Phadia K.K.	Japan	100
+Phadia Austria GmbH	Austria	100
+Phadia N.V. [.0016% by Phadia Ltd]	Belgium	99.9984
+Phadia Sociedad Unipessoal Lda	Portugal	100
+Phadia Spain S.L.	Spain	100
+Phadia Oy	Finland	100
+Phadia SAS	France	100
+Fiberlite Centrifuge LLC	Delaware	100
+Fisher Canada Limited Partnership [1.14% by Fisher Canada Holding ULC 2]	Canada	98.86
+Fisher Scientific Company	Canada	100
+Thermo Fisher International Holdings LLC	Delaware	100
+Fisher (Barbados) Holding SRL	Barbados	100
+Cole-Parmer Canada Company	Canada	100
+Diagnostix Ltd.	Canada	100
+Fisher Scientific Oxoid Holdings Ltd.	England	100
+Oxoid Company	Canada	100
+Fisher Scientific Luxembourg S.a.r.l.	Luxembourg	100
+Perbio Science International Netherlands B.V.	Netherlands	100
+Perbio Science (Canada) Company	Canada	100
+Fisher Scientific UK Holding Company Limited	England	100
+Fisher Scientific Oy	Finland	100
+Fisher Scientific Norway AS	Norway	100
+Fisher Scientific A/S	Norway	100
+Doublecape Holding Limited	England	100
+I.Q. (BIO) Limited	England	100
+Oxoid (ELY) Limited	England	100
+Doublecape Limited	England	100
+Fisher Scientific Ireland Limited	Ireland	100
+Fisher Scientific Holding U.K., Limited	England	100
+Fisher Scientific U.K., Limited	England	100
+Orme Scientific Limited	England	100
+FSUK Holdings Limited	England	100
+Sterilin Limited	England	100
+Fisher Scientific UK Holding Company 2	England	100
+Fisher Clinical Services U.K. Limited	England	100
+Fisher Clinical Services Pte Ltd.	Singapore	100
+Fisher Clinical Services (Beijing) Co., Ltd.	China	100
+Fisher Scientific Europe Holdings B.V.	Netherlands	100
+Fisher Scientific The Hague III B.V.	Netherlands	100
+Fisher Scientific of the Netherlands B.V.	Netherlands	100
+Fisher Emergo B.V.	Netherlands	100
+Labo-Tech B.V.	Netherlands	100
+Fisher Scientific The Hague II B.V.	Netherlands	100
+Fisher Scientific The Hague I B.V.	Netherlands	100
+Fisher Scientific Jersey Island Limited	Jersey	100
+Fisher Maybridge Holdings Limited	England	100
+Maybridge Chemical Holdings Limited	England	100
+Maybridge Limited	England	100
+Maybridge Chemical Company Limited	England	100
+Fisher Scientific The Hague IV B.V.	Netherlands	100
+Acros Organics B.V.B.A. [.0001% by Fisher Scientific The Hague II B.V. and .0332% by Fisher Chimica BVBA]	Belgium	99.9667
+Fisher Scientific AG [17.55% by Fisher Scientific S.A.S.]	Switzerland	82.45
+Ecochem N.V. [.33% by Fisher Chimica BVBA]	Belgium	99.67
+Fisher Chimica BVBA [.01% by Fisher Scientific The Hague II B.V.]	Belgium	99.99
+Fisher Scientific The Hague V B.V.	Netherlands	100
+Fisher Scientific Ireland Holding [1% by Fisher Scientific Europe Holdings B.V.]	Ireland	99
+Fisher Clinical Services GmbH	Switzerland	100
+Fisher BioPharma Services (India) Private Limited [.315% by Fisher Clinical Services U.K. Limited]	India	99.685
+Fisher Scientific Ireland Investments [1% by Fisher Scientific Europe Holdings B.V.]	Ireland	99
+Fisher Bioblock Holding II SNC (.99% by Fisher Scientific The Hague II BV]	France	99.01
+Thermo Electron Holdings SAS [22.12% by Fisher Canada Limited Partnership]	France	77.88
+Thermo Electron SAS	France	100
+Thermo Electron LED S.A.S.	France	100
+Jouan Limited	England	100
+Thermo Electron Industries	France	100
+S.C.I. du 10 rue Dugay Trouin [2% by Thermo Electron Industries]	France	98
+Thermo Fisher Scientific Milano Srl [.05% by Thermo Electron Industries]	Italy	99.95
+Jouan Robotics SAS	France	100
+Perbio Science France SAS	France	100
+Fisher Scientific S.A.S.	France	100
+Avantec Sarl	France	100
+Fisher Scientific SPRL [.1% by Fisher Bioblock HoldingII SNC]	Belgium	99.90
+Novodirect GmbH	Germany	100
+SCI Inno 92	France	100
+Fisher Scientific, SL	Spain	100
+Fisher Scientific, Unipessoal, Lda.	Portugal	100
+Afora, S.A.U.	Spain	100
+Bonsai Tecnologies - Sistemas para Biotecnología e Industria, Unipessoal Lda	Portugal	100
+Oxoid Holding SAS	France	100
+Oxoid SAS	France	100
+Oxoid Senior Holdings Limited	England	100
+Oxoid UKH LLC [0% by Oxoid Senior Holdings Limited]	Delaware	100
+Oxoid 2000 Limited	England	100
+Oxoid Holdings Limited	England	100
+Oxoid International Limited	England	100
+Oxoid CZ s.r.o.	Czech Republic	100
+Oxoid A/S	Denmark	100
+Oxoid AS	Norway	100
+Oxoid AB	Sweden	100
+Oxoid AG	Switzerland	100
+Oxoid Brazil LTDA (.01% by Oxoid Limited)	Brazil	99.99
+Oxoid BV	Netherlands	100
+Oxoid Inc.	Delaware	100
+Oxoid New Zealand Limited	New Zealand	100
+Oxoid N.V. [.01% by Oxoid Limited]	Belgium	99.99
+Oxoid SA	Spain	100
+Oxoid S.p.A	Italy	100
+Oxoid Limited	England	100
+G & M Procter Limited	Scotland	100
+Oxoid Limited	Ireland	100
+Oxoid Pension Trustees Limited	England	100
+Fisher Scientific Japan, Ltd.	Japan	100
+Fisher Scientific Korea Ltd	Korea	100
+Fisher WWD Holding L.L.C.	Delaware	100
+Kyle Jordan Investments Inc.	Delaware	100
+Pacific Rim Far East Industries, Inc.	Delaware	100
+Pacific Rim Investment, Inc.	Delaware	100
+Marketbase International Limited	Hong Kong	100
+Thermo-Fisher Biochemical Product (Beijing) Co.,Ltd.	China	100
+Cenduit LLC [50% held privately]	Delaware	50

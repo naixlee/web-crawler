@@ -1,6 +1,5 @@
 package PageParser;
 
-import java.io.File;
 import java.util.logging.Logger;
 
 
@@ -17,10 +16,7 @@ public class ParserExecutor {
     String inputHome = args[0];
     String outputHome = args[1];
 
-    File inputHomeFolder = new File(inputHome);
-    if (!inputHomeFolder.exists()) {
-      LOGGER.warning("Invalid input home folder");
-      return;
-    }
+    SECParser sparser = new SECParser(inputHome, outputHome);
+    sparser.extract(inputHome, inputHome, outputHome);
   }
 }

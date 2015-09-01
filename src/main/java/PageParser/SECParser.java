@@ -1,9 +1,13 @@
 package PageParser;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -14,8 +18,29 @@ import org.jsoup.select.Elements;
  * Created by xli1 on 8/17/15.
  */
 public class SECParser extends Parser {
+  Map<String, String> pageURLMap = null;
+
+  private void initPageURLMap(String urlInfoPath) {
+    try {
+      pageURLMap = new HashMap<String, String>();
+      BufferedReader reader = new BufferedReader(new FileReader(urlInfoPath));
+      String temp = null;
+      while ((temp = reader.readLine()) != null) {
+        String[] strs = temp.split("\t");
+        String key = strs[0] + "/" + strs[3] + "-" + strs[4];
+        String url = strs[5];
+        pageURLMap.put(key, url);
+      }
+
+    } catch (IOException exception) {
+      LOGGER.info(exception.getMessage() + " " + urlInfoPath);
+    }
+  }
+
   public SECParser(String inputHome, String outputHome) {
     super(inputHome, outputHome);
+    initPageURLMap("/Users/xli1/project/relationship-analysis/test/sec_pages_urls.txt");
+    System.out.println(pageURLMap.size());
   }
 
   public void extract() {
@@ -69,6 +94,7 @@ public class SECParser extends Parser {
         i = i + 1;
       }
       BufferedWriter writer = new BufferedWriter(new FileWriter(outputFile));
+      BufferedWriter exceptionWriter = new BufferedWriter(new FileWriter(outputHome + "/" + "exception_list.txt", true));
       StringBuilder textContent = new StringBuilder();
       Elements tables = root.getElementsByTag("table");
       for (Element t : tables) {
@@ -86,9 +112,16 @@ public class SECParser extends Parser {
 
       if (textContent.length() == 0) {
         LOGGER.info("Fail to extract: " + filePath);
+        String key = filePath.substring(filePath.indexOf("sec_pages/") + "sec_pages/".length(), filePath.indexOf(".html"));
+        if (pageURLMap != null && pageURLMap.containsKey(key)) {
+          exceptionWriter.write(key + ".txt\t" + pageURLMap.get(key) + "\n");
+          exceptionWriter.close();
+        }
+      } else {
+        writer.write(textContent.toString());
+        writer.close();
       }
-      writer.write(textContent.toString());
-      writer.close();
+
     } catch (IOException ioException) {
       LOGGER.info(ioException.getMessage());
     }
